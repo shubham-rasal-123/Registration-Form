@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shubham-rasal-123/Re-Lo-Au-Project.git"
+    "url": "git+https://github.com/shubham-rasal-123/Registration-Form.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/shubham-rasal-123/Re-Lo-Au-Project/issues"
+    "url": "https://github.com/shubham-rasal-123/Registration-Form/issues"
   },
-  "homepage": "https://github.com/shubham-rasal-123/Re-Lo-Au-Project#readme",
+  "homepage": "https://github.com/shubham-rasal-123/Registration-Form#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "dotenv": "^16.0.3",
